@@ -1,0 +1,67 @@
+h1{
+  text-align: center;
+}
+
+.mysection {
+  border: 2px solid black;
+  }
+
+.input {
+position: relative;
+left:580px;
+bottom: 10px;
+top:2px;
+}
+
+#text
+{
+  font-size: 23px;
+}
+
+#check {
+  font-size: 23px;
+}
+
+#delete {
+  background-image:url('https://image.flaticon.com/icons/svg/77/77679.svg');
+
+}
+
+#items {
+  display: grid;
+  grid-template-columns: 2% 10% 2%;
+}
+
+#value {
+  width: 200px;
+  height: 35px;
+  position: relative;
+  font-size: 22px;
+}
+
+#addMe {
+  font-size: 23px;
+  width: 87px;
+  height:38px;
+}
+
+.first  {
+
+  display: inline-block;
+  font-size: 24px;
+
+}
+.count  {
+  display: inline-block;
+  font-size: 24px;
+}
+
+hr {
+  display: block;
+  height:4px;
+  width: 200px;
+  border: 0;
+  border-top: 1px solid;
+  margin: 1em 0;
+  padding:0;
+}
